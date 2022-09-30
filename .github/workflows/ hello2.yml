@@ -1,7 +1,7 @@
 name: Say hello
 
 on:
-  push:
+  pull_request:
     branches:
       - main
 
